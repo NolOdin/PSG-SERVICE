@@ -12,6 +12,8 @@ http://localhost:5000/api/track/?limit=10 - лимит вывода
 
 http://localhost:5000/api/track/?page=3 - разделение на страницы (по лимитно)
 
+Так же сервис умеет логировать действия пользователей и записывать в /logs/app.log
+
 При добавлении исполнителя Monetochka соообщение: "message": "unwanted singer! 
 
 
