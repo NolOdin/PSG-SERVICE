@@ -6,7 +6,7 @@
 
 http://localhost:5000/api/track/?regDate=2022-02-13 - выборка по дате создания 
 
-http://localhost:5000/api/track/?trackName=Mozart Beethoven - выборка по Авторам (одному или нескольким)
+http://localhost:5000/api/track/?singerName=Mozart Beethoven - выборка по Авторам (одному или нескольким)
 
 http://localhost:5000/api/track/?limit=10 - лимит вывода 
 
